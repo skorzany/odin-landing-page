@@ -1,3 +1,4 @@
+/* BASE CSS RESET */
 *,
 *::before,
 *::after {
@@ -9,3 +10,13 @@
 body {
     min-height: 100vh;
 }
+/* END OF BASE CSS RESET */
+
+
+/* FONTS */
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+/* END OF FONTS */
