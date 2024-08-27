@@ -129,4 +129,19 @@ blockquote footer {
 figure {
     width: 155px;
 }
+
+.quotation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quotation blockquote {
+    width: 825px;
+}
+
+.quotation footer {
+    text-align: end;
+    padding-right: 50px;
+}
 /* END OF ALIGNMENT */
