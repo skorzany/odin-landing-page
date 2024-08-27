@@ -20,3 +20,38 @@ body {
     font-style: normal;
 }
 /* END OF FONTS */
+
+
+/* COLOR AND STYLE */
+.header,
+.footer {
+    background-color: #1f2937;
+}
+
+.header h1,
+.logo {
+    color: #f9faf8;
+    font-weight: 900;
+}
+
+.header a,
+.header p {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.header h1 {
+    font-size: 48px;
+}
+
+.header a {
+    text-decoration: none;
+}
+
+.logo {
+    font-size: 24px;
+}
+/*END OF COLOR AND STYLE */
+
+/* ALIGNMENT */
+/* END OF ALIGNMENT */
