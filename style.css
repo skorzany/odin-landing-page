@@ -82,6 +82,20 @@ blockquote footer {
     font-weight: bold;
     font-size: 18px;
 }
+
+.cta-box {
+    background-color: #3882f6;
+}
+
+.cta-box h3 {
+    font-size: 18px;
+    color: white;
+}
+
+.cta-box p {
+    font-size: 16px;
+    color: #e5e7eb;
+}
 /*END OF COLOR AND STYLE */
 
 /* ALIGNMENT */
