@@ -52,10 +52,6 @@ body {
     font-size: 24px;
 }
 
-/* .info {
-    text-align: center;
-} */
-
 .info h2 {
     font-size: 36px;
     font-weight: 900;
@@ -69,6 +65,22 @@ figure img {
 
 figcaption {
     color: rgb(77, 77, 77);
+}
+
+.quotation {
+    background-color: #e5e7eb;
+}
+
+blockquote p {
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+    color: #1f2937;
+}
+
+blockquote footer {
+    font-weight: bold;
+    font-size: 18px;
 }
 /*END OF COLOR AND STYLE */
 
