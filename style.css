@@ -51,6 +51,25 @@ body {
 .logo {
     font-size: 24px;
 }
+
+.info {
+    text-align: center;
+}
+
+.info h2 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+}
+
+figure img {
+    border-radius: 10%;
+    border: 3px solid #3882f6;
+}
+
+figcaption {
+    color: rgb(77, 77, 77);
+}
 /*END OF COLOR AND STYLE */
 
 /* ALIGNMENT */
