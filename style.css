@@ -54,4 +54,33 @@ body {
 /*END OF COLOR AND STYLE */
 
 /* ALIGNMENT */
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+.header .container {
+    display: flex;
+    flex-direction: column;
+}
+
+.header-top {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.logo {
+    margin-right: auto;
+}
+
+.header-bot {
+    display: flex;
+    gap: 50px;
+}
+
+.hb-left {
+    max-width: 450px;
+}
+
 /* END OF ALIGNMENT */
