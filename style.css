@@ -182,4 +182,10 @@ figure {
 .cta-btn {
     margin-left: auto;
 }
+
+.footer {
+    text-align: center;
+    padding: 25px;
+    margin-top: auto;
+}
 /* END OF ALIGNMENT */
