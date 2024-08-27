@@ -85,6 +85,7 @@ blockquote footer {
 
 .cta-box {
     background-color: #3882f6;
+    border-radius: 7.5px;
 }
 
 .cta-box h3 {
@@ -157,5 +158,23 @@ figure {
 .quotation footer {
     text-align: end;
     padding-right: 50px;
+}
+
+.call-to-action {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cta-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px 75px;
+    width: 75%    /* change later */
+}
+
+.cta-btn {
+    margin-left: auto;
 }
 /* END OF ALIGNMENT */
