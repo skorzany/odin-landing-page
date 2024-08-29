@@ -102,6 +102,20 @@ blockquote footer {
     font-size: 16px;
     color: #e5e7eb;
 }
+
+button {
+    background-color: #3882f6;
+    color: #e5e7eb;
+    font-size: 18px;
+    font-weight: 700;
+    border: none;
+    border-radius: 7.5px;
+    cursor: pointer;
+}
+
+.cta-box button {
+    border: 2px solid #e5e7eb;
+}
 /*END OF COLOR AND STYLE */
 
 /* ALIGNMENT */
@@ -201,7 +215,7 @@ figure {
     margin: 50px 0;
 }
 
-.cta-btn {
+.cta-box button {
     margin-left: auto;
 }
 
@@ -209,5 +223,13 @@ figure {
     text-align: center;
     padding: 15px;
     margin-top: auto;
+}
+
+button {
+    padding: 7.5px 30px;
+}
+
+.header button {
+    margin-top: 15px;
 }
 /* END OF ALIGNMENT */
