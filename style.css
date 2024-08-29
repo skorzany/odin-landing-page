@@ -73,13 +73,13 @@ figcaption {
 
 blockquote p {
     font-size: 36px;
-    font-weight: light;
+    font-weight: 300;
     font-style: italic;
     color: #1f2937;
 }
 
 blockquote footer {
-    font-weight: bold;
+    font-weight: 900;
     font-size: 18px;
 }
 
