@@ -159,6 +159,10 @@ body {
     width: 450px;
 }
 
+.header img {
+    max-width: 100%;
+}
+
 .info {
     display: flex;
     flex-direction: column;
@@ -195,6 +199,7 @@ figure {
 .quotation footer {
     text-align: end;
     padding-right: 40px;
+    margin-top: 10px;
 }
 
 .call-to-action {
