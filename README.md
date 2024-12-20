@@ -1,7 +1,10 @@
 # odin-landing-page
 
-This is my take on 'Project: Landing Page' from The Odin Project Foundations course. Please note, that this webpage is designed for displaying on desktop only! (for now)
+The goal was to recreate a static webpage from the [provided design](./design.png).
 
-The goal is to create a webpage from scratch, using a provided design images.
+I tried to mimic this design as close as possible, you can view it on [GitHubPages](https://skorzany.github.io/odin-landing-page/).
 
-All images are randomly chosen at each page reload, and are the courtesy of https://picsum.photos/
+The page is **not responsive**, the main purpose was to practice flexbox and css.
+
+## Additional note:
+All images are randomly chosen at each page reload, and are the courtesy of [Lorem Picsum](https://picsum.photos/).
